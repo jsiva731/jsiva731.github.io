@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Biostatistics, University of Waterloo, 2028 (expected)
+* MMath in Biostatistics, University of Waterloo, 2024
+* BMath Honours in Statistics, Carleton University, 2023
 
 Work experience
 ======
