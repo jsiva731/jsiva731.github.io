@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jay Siva",
+    "email": "jsivatha@uwaterloo.ca",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://jsiva731.github.io",
+    "summary": "PhD Candidate in Biostatistics",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Waterloo, ON",
+      "countryCode": "CA",
       "region": ""
     },
     "profiles": [
@@ -21,41 +21,41 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0005-1825-7917"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "jsiva731",
+        "url": "https://github.com/jsiva731"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Waterloo",
+      "area": "Ph.D in Biostatistics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2024",
+      "endDate": "2028",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Waterloo",
+      "area": "MMath in Biostatistics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2023",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Carleton University",
+      "area": "BMath Honours in Statistics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2019",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     }
