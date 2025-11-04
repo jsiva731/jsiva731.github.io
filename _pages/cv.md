@@ -23,6 +23,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Co-Chair, Canadian Statistics Student Conference, 2025
+* Organizing Committee, Ontario Universities Sports Analytics Coalition (OUSAC) Conference, 2025
+* Treasurer/Operations Lead, University of Waterloo Analytics Group for Games and Sports (UWAGGS), 2024
+* Organizing Committee, Canadian Statistics Student Conference, 2023-2024
+* Treasurer, Carleton Math Society, 2021-2022
+* 
