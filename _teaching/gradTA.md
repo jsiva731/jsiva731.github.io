@@ -1,14 +1,14 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type:
 permalink: /teaching/gradTA
 venue: "University of Waterloo"
 date: Sept. 2023 -- Present
 location: "Waterloo, ON, Canada"
 ---
 
-I have been a TA for 19 courses during my graduate studies at UW.
+As of the Fall 2026 semester, I have been a TA for 19 courses during my graduate studies at UW.
 
 Courses
 ======
